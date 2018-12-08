@@ -1,2 +1,1 @@
-# abeksobot1
-ABekSo Bot
+moneybot
