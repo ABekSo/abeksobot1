@@ -14,7 +14,7 @@ import atexit
 
 # если в окуржении есть переменная HEROKU, значит получаем токен из переменной окружения
 if 'HEROKU' in list(os.environ.keys()):
-    TOKEN = str(os.environ.get('TOKEN'))
+    TOKEN = str(os.environ.get('586504632:AAFHgDu5ki43mUKMbpHG7JTwb5tdUszqoO8'))
 # иначе импортируем его из скрытого в файлы в папке проекта
 else:
     import token_key
